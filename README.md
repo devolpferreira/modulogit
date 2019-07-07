@@ -1,1 +1,3 @@
-Meu primeiro Programa em HTML e CSS
+Estou testanto alterações no GIT e o GITHUB
+Não sei como funciona ainda no VSCOD.
+MELHOR ESTUDAR
